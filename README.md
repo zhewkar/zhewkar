@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+_ 👀 i'm looking you but you dont see 
+- 🧵 i'm making a border
+- sum
+- max
+- min
+- +sum 1 to 100
+- max 100
+- min 1
+- count
+- count <=50 pass
+- count >=50 fail
+- if digre =49 icual 1 digre making a count pass
